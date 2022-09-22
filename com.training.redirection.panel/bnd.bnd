@@ -1,0 +1,4 @@
+Bundle-Name: com.training.redirection.panel
+Bundle-SymbolicName: com.training.redirection.panel
+Bundle-Version: 1.0.0
+Export-Package: com.training.redirection.panel.constants
